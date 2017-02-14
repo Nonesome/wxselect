@@ -35,7 +35,7 @@
 						$dialog.show();
 						$mask.show();
 					}
-				}, 30);
+				}, 50);
 			});
 
 			$("#J_close").on('click', function(e) {
